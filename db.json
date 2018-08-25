@@ -4,17 +4,46 @@
       "id": 1,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-,
-{
-  "posts": [
+    ,
     {
       "id": 2,
       "title": "world"
+    }
+    ,
+    {
+      "id": 3,
+      "title": "and"
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Rodney"
+    }
+    ,
+    {
+      "id": 5,
+      "title": "Irvin"
+    }
+    ,
+    {
+      "id": 6,
+      "title": "WoMacroMAX"
+    }
+    {
+      "id": 7,
+      "title": "zablab"
+    }
+    {
+      "id": 8,
+      "title": "yepyep"
+    }
+    {
+      "id": 9,
+      "title": "hello"
+    }
+    {
+      "id": 10,
+      "title": "hello"
     }
   ],
   "profile": {
