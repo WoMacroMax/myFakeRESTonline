@@ -3,22 +3,18 @@
     {
       "id": 1,
       "title": "hello"
-    },
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+,
+{
+  "posts": [
     {
       "id": 2,
       "title": "world"
-    },
-    {
-      "id": 3,
-      "title": "its"
-    },
-    {
-      "id": 4,
-      "title": "Rod"
-    },
-    {
-      "id": 5,
-      "title": "WoMacroMAX"
     }
   ],
   "profile": {
